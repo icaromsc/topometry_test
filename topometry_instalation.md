@@ -6,6 +6,7 @@ Install the Conda environment
 `conda create --name topometry python=3.7` 
 
 To activate this environment, use:
+
 `conda activate topometry` 
 
 Install dependencies:
@@ -23,4 +24,5 @@ Install other dependencies:
 `pip3 install numpy pandas scipy numba torch matplotlib scikit-learn kneed pymde`
 
 Install Topometry:
+
 `pip3 install topometry`
